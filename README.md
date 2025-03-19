@@ -9,3 +9,6 @@ The key information presented in power flow analysis is the magnitude and phase 
 4)However this code is devoid of tap changing transformer effects and charging effects of shunt capacitors. 
 
 Any contribution to the development of this code is very much welcome and appreciated.
+
+
+where is the 'linedata' to be read? 
